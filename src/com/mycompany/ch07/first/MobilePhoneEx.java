@@ -16,9 +16,9 @@ public class MobilePhoneEx {
 		
 		Mobile mobile = new Mobile();
 		
-		mobile.powerOff();	// CellPhone 클래스
+		mobile.powerOff();			// CellPhone 클래스
 		mobile.changeChannelDmb(1);	// DmbCellPhone 클래스
-		mobile.aaa();	// Mobile 클래스
+		mobile.aaa();				// Mobile 클래스
 	}
 
 }
